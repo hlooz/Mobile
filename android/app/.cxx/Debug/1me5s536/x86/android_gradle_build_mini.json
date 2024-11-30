@@ -1,0 +1,92 @@
+{
+  "buildFiles": [
+    "D:\\mobil\\yenicag\\node_modules\\react-native-gesture-handler\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
+    "D:\\mobil\\yenicag\\node_modules\\react-native-mmkv\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
+    "D:\\mobil\\yenicag\\node_modules\\react-native-mmkv\\android\\CMakeLists.txt",
+    "D:\\mobil\\yenicag\\node_modules\\react-native-mmkv\\MMKV\\Core\\CMakeLists.txt",
+    "D:\\mobil\\yenicag\\node_modules\\react-native-reanimated\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
+    "D:\\mobil\\yenicag\\node_modules\\react-native-safe-area-context\\android\\src\\main\\jni\\CMakeLists.txt",
+    "D:\\mobil\\yenicag\\node_modules\\react-native-screens\\android\\src\\main\\jni\\CMakeLists.txt",
+    "D:\\mobil\\yenicag\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\halil\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\mobil\\yenicag\\android\\app\\.cxx\\Debug\\1me5s536\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\halil\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\mobil\\yenicag\\android\\app\\.cxx\\Debug\\1me5s536\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "react_codegen_rnreanimated::@8afabad14bfffa3f8b9a": {
+      "artifactName": "react_codegen_rnreanimated",
+      "abi": "x86",
+      "runtimeFiles": []
+    },
+    "react_codegen_safeareacontext::@7984cd80db47aa7b952a": {
+      "artifactName": "react_codegen_safeareacontext",
+      "abi": "x86",
+      "output": "D:\\mobil\\yenicag\\android\\app\\build\\intermediates\\cxx\\Debug\\1me5s536\\obj\\x86\\libreact_codegen_safeareacontext.so",
+      "runtimeFiles": [
+        "C:\\Users\\halil\\.gradle\\caches\\8.10.2\\transforms\\8b60b4f75564ac53567672df7a1c9a73\\transformed\\fbjni-0.6.0\\prefab\\modules\\fbjni\\libs\\android.x86\\libfbjni.so",
+        "C:\\Users\\halil\\.gradle\\caches\\8.10.2\\transforms\\e7a87e28456e3cd3dea6e54dbe4d1714\\transformed\\react-android-0.76.3-debug\\prefab\\modules\\jsi\\libs\\android.x86\\libjsi.so",
+        "C:\\Users\\halil\\.gradle\\caches\\8.10.2\\transforms\\e7a87e28456e3cd3dea6e54dbe4d1714\\transformed\\react-android-0.76.3-debug\\prefab\\modules\\reactnative\\libs\\android.x86\\libreactnative.so"
+      ]
+    },
+    "core::@1b9a7d546b295b7d0867": {
+      "artifactName": "core",
+      "abi": "x86",
+      "output": "D:\\mobil\\yenicag\\android\\app\\.cxx\\Debug\\1me5s536\\x86\\RNMmkvSpec_cxxmodule_autolinked_build\\core\\libcore.a",
+      "runtimeFiles": []
+    },
+    "react-native-mmkv::@4ae6a1e65d3e68ba0197": {
+      "artifactName": "react-native-mmkv",
+      "abi": "x86",
+      "output": "D:\\mobil\\yenicag\\android\\app\\build\\intermediates\\cxx\\Debug\\1me5s536\\obj\\x86\\libreact-native-mmkv.so",
+      "runtimeFiles": [
+        "C:\\Users\\halil\\.gradle\\caches\\8.10.2\\transforms\\8b60b4f75564ac53567672df7a1c9a73\\transformed\\fbjni-0.6.0\\prefab\\modules\\fbjni\\libs\\android.x86\\libfbjni.so",
+        "C:\\Users\\halil\\.gradle\\caches\\8.10.2\\transforms\\e7a87e28456e3cd3dea6e54dbe4d1714\\transformed\\react-android-0.76.3-debug\\prefab\\modules\\jsi\\libs\\android.x86\\libjsi.so",
+        "C:\\Users\\halil\\.gradle\\caches\\8.10.2\\transforms\\e7a87e28456e3cd3dea6e54dbe4d1714\\transformed\\react-android-0.76.3-debug\\prefab\\modules\\reactnative\\libs\\android.x86\\libreactnative.so"
+      ]
+    },
+    "react_codegen_rngesturehandler_codegen::@39f233abcd2c728bc6ec": {
+      "artifactName": "react_codegen_rngesturehandler_codegen",
+      "abi": "x86",
+      "runtimeFiles": []
+    },
+    "react_codegen_rnscreens::@25bcbd507e98d3a854ad": {
+      "artifactName": "react_codegen_rnscreens",
+      "abi": "x86",
+      "output": "D:\\mobil\\yenicag\\android\\app\\build\\intermediates\\cxx\\Debug\\1me5s536\\obj\\x86\\libreact_codegen_rnscreens.so",
+      "runtimeFiles": [
+        "C:\\Users\\halil\\.gradle\\caches\\8.10.2\\transforms\\e7a87e28456e3cd3dea6e54dbe4d1714\\transformed\\react-android-0.76.3-debug\\prefab\\modules\\reactnative\\libs\\android.x86\\libreactnative.so",
+        "C:\\Users\\halil\\.gradle\\caches\\8.10.2\\transforms\\e7a87e28456e3cd3dea6e54dbe4d1714\\transformed\\react-android-0.76.3-debug\\prefab\\modules\\jsi\\libs\\android.x86\\libjsi.so",
+        "C:\\Users\\halil\\.gradle\\caches\\8.10.2\\transforms\\8b60b4f75564ac53567672df7a1c9a73\\transformed\\fbjni-0.6.0\\prefab\\modules\\fbjni\\libs\\android.x86\\libfbjni.so"
+      ]
+    },
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "x86",
+      "output": "D:\\mobil\\yenicag\\android\\app\\build\\intermediates\\cxx\\Debug\\1me5s536\\obj\\x86\\libappmodules.so",
+      "runtimeFiles": [
+        "D:\\mobil\\yenicag\\android\\app\\build\\intermediates\\cxx\\Debug\\1me5s536\\obj\\x86\\libreact-native-mmkv.so",
+        "D:\\mobil\\yenicag\\android\\app\\build\\intermediates\\cxx\\Debug\\1me5s536\\obj\\x86\\libreact_codegen_safeareacontext.so",
+        "D:\\mobil\\yenicag\\android\\app\\build\\intermediates\\cxx\\Debug\\1me5s536\\obj\\x86\\libreact_codegen_rnscreens.so",
+        "C:\\Users\\halil\\.gradle\\caches\\8.10.2\\transforms\\8b60b4f75564ac53567672df7a1c9a73\\transformed\\fbjni-0.6.0\\prefab\\modules\\fbjni\\libs\\android.x86\\libfbjni.so",
+        "C:\\Users\\halil\\.gradle\\caches\\8.10.2\\transforms\\e7a87e28456e3cd3dea6e54dbe4d1714\\transformed\\react-android-0.76.3-debug\\prefab\\modules\\jsi\\libs\\android.x86\\libjsi.so",
+        "C:\\Users\\halil\\.gradle\\caches\\8.10.2\\transforms\\e7a87e28456e3cd3dea6e54dbe4d1714\\transformed\\react-android-0.76.3-debug\\prefab\\modules\\reactnative\\libs\\android.x86\\libreactnative.so"
+      ]
+    },
+    "react_codegen_RNMmkvSpec::@7541eabbae598da31a69": {
+      "artifactName": "react_codegen_RNMmkvSpec",
+      "abi": "x86",
+      "runtimeFiles": []
+    }
+  }
+}
